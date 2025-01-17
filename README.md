@@ -17,6 +17,6 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
-   Image my Results to deploy:
-   <img src=".github/Screenshot 2025-01-17 192045.png" alt="ตัวอย่างรูปภาพ" width="400"/>
+  # Image my Results to deploy:
+   <img src=".github/Screenshot 2025-01-17 192045.png" alt="ตัวอย่างรูปภาพ" width="1000"/>
 
